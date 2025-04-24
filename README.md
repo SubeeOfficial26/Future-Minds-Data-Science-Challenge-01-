@@ -55,9 +55,10 @@ This app uses Gemini AI and sends PDF content + user questions to the cloud for 
 
 
 ## 👨‍💻 Developeres
-Team leader :- S.Subeetshagan
-Team Members :- S.kaviraj <br>
-             :- D.Merushiyan Pillay   
+Team leader :- S.Subeetshagan <br>
+Team Members <br>
+:- S.kaviraj <br>
+:- D.Merushiyan Pillay   
 
   <!-- Linktree Link -->
 <a href="https://linktr.ee/s.subeetshagan" target="_blank">🌐All My Links</a>           
